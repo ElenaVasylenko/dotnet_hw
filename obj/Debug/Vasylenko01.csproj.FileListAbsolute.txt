@@ -1,0 +1,9 @@
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Vasylenko01\Vasylenko01\bin\Debug\Vasylenko01.exe.config
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Vasylenko01\Vasylenko01\bin\Debug\Vasylenko01.exe
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Vasylenko01\Vasylenko01\bin\Debug\Vasylenko01.pdb
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Vasylenko01\Vasylenko01\obj\Debug\Vasylenko01.csprojResolveAssemblyReference.cache
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Vasylenko01\Vasylenko01\obj\Debug\Vasylenko01.exe
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Vasylenko01\Vasylenko01\obj\Debug\Vasylenko01.pdb
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Новая папка\Vasylenko01\Vasylenko01\bin\Debug\Vasylenko01.exe.config
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Новая папка\Vasylenko01\Vasylenko01\obj\Debug\Vasylenko01.exe
+C:\Users\Sombr\Desktop\Новая папка (3)\Новая папка\Новая папка\Vasylenko01\Vasylenko01\obj\Debug\Vasylenko01.pdb
